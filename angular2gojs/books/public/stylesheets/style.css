@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+table {
+  border-spacing: 10px;
+}
+
+table tbody tr:nth-of-type(even) {
+  background-color: #E8E8E8;
+}
+
+.error {
+  color: #FF0000;
+}
